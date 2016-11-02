@@ -1,5 +1,5 @@
 {
-    "name": "webunion/SilexProviders",
+    "name": "webunion/silex-providers",
     "description": "A collection of utils Silex service providers",
 	"type": "library",
     "keywords": ["providers", "silex", "service providers"],
