@@ -3,7 +3,7 @@
     "description": "A collection of utils Silex service providers",
 	"type": "library",
     "keywords": ["providers", "silex", "service providers"],
-    "license": "BSD Style",
+    "license": "MIT",
     "authors": [
         {
             "name": "Ricardo Fontanelli",
